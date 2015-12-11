@@ -1,0 +1,8 @@
+﻿7
+Antenas Colas Nucleos Cuerpo Clase
+1 0 2 Rayado +
+1 0 1 Blanco -
+1 2 0 Rayado +
+0 2 1 Rayado +
+1 1 1 Rayado -
+2 2 1 Rayado -

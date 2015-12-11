@@ -1,0 +1,7 @@
+/home/luis/Público/ID3/Test/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luis/Público/ID3/Test/bin/Release/Test.exe.mdb
+/home/luis/Público/ID3/Test/bin/Release/Test.exe
+/home/luis/Público/ID3/Test/obj/Release/Test.exe
+/home/luis/Público/ID3/Test/obj/Release/Test.exe.mdb
+/home/luis/Público/ID3/Test/bin/Release/ID3.dll
+/home/luis/Público/ID3/Test/bin/Release/ID3.dll.mdb

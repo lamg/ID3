@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Test/Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Program.cs">
+    <Files>
+      <File FileName="ID3/Algoritmo.cs" Line="162" Column="78" />
+      <File FileName="Tests/Test.cs" Line="15" Column="3" />
+      <File FileName="Tests/ejemplo.txt" Line="4" Column="15" />
+      <File FileName="Test/Program.cs" Line="13" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="ID3" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="TestTree" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
